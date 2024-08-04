@@ -1,0 +1,17 @@
+@charset "UTf-8";
+
+section {
+    flex-wrap: wrap;
+    flex-flow: column;
+}
+
+main{
+    padding: 10px;
+}
+main p{
+    text-align: center;
+}
+
+section div{
+    width: 100%;
+}
